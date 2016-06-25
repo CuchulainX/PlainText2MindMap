@@ -1,0 +1,140 @@
+<map version="1.0.1">
+<node text="Root">
+    <node text="Einstein Relativity">    
+        <node text="Deflection Einstein">        
+            <node text="Albert Einstein"></node>
+            <node text="Einstein comparisons"></node>
+        </node>
+        <node text="Attraction gravitation">        
+            <node text="Law gravitation"></node>
+            <node text="Sphere gravitation"></node>
+        </node>
+        <node text="Velocities light">        
+            <node text="Light electro"></node>
+            <node text="Vibration light"></node>
+        </node>
+        <node text="Rays light"></node>
+    </node>
+    <node text="Motion earth">    
+        <node text="Motion formulas">        
+            <node text="Difform motion"></node>
+            <node text="Uniform motion"></node>
+        </node>
+        <node text="Velocity second">        
+            <node text="Acceleration 981">            
+                <node text="Velocity divisions"></node>
+                <node text="Objects"></node>
+            </node>
+        </node>
+        <node text="Function">        
+            <node text="Vehicle"></node>
+            <node text="Coach"></node>
+        </node>
+        <node text="Reasons">        
+            <node text="Travel"></node>
+            <node text="Sketch"></node>
+        </node>
+    </node>
+    <node text="Term relativity">    
+        <node text="Conception">        
+            <node text="Mechanics"></node>
+            <node text="Galileo"></node>
+        </node>
+        <node text="Newtonian dynamics">        
+            <node text="Approximations"></node>
+            <node text="Ordinates"></node>
+            <node text="Angles triangle"></node>
+        </node>
+        <node text="Magnetic phenomena">        
+            <node text="Phenomena involving"></node>
+            <node text="Electrodynamics"></node>
+        </node>
+        <node text="Rays distance">        
+            <node text="Inverse distance"></node>
+            <node text="Number"></node>
+        </node>
+        <node text="Meter">        
+            <node text="Substance"></node>
+            <node text="Shifting"></node>
+        </node>
+    </node>
+    <node text="Eclipse">    
+        <node text="Photographs"></node>
+        <node text="Astronomy">        
+            <node text="Physicist"></node>
+            <node text="Departure"></node>
+            <node text="Planets"></node>
+        </node>
+        <node text="Orthodox">        
+            <node text="Subject"></node>
+            <node text="Average"></node>
+        </node>
+        <node text="Nature"></node>
+        <node text="World">        
+            <node text="German"></node>
+            <node text="Extension"></node>
+        </node>
+    </node>
+    <node text="Euclidean geometry">    
+        <node text="Accounting">        
+            <node text="Hypothesis"></node>
+            <node text="Tests"></node>
+        </node>
+        <node text="Discrepancy">        
+            <node text="Verification"></node>
+            <node text="Correcting"></node>
+        </node>
+        <node text="Equations">        
+            <node text="Substitute"></node>
+            <node text="Varying"></node>
+        </node>
+        <node text="Valid"></node>
+        <node text="Simplicity">        
+            <node text="Compensating"></node>
+            <node text="Merit"></node>
+        </node>
+        <node text="Assumptions"></node>
+    </node>
+    <node text="Lorentz">    
+        <node text="Prof"></node>
+        <node text="Review"></node>
+    </node>
+    <node text="Displacements">    
+        <node text="Deduces">        
+            <node text="Order">            
+                <node text="Deviations"></node>
+                <node text="Alongside"></node>
+            </node>
+        </node>
+        <node text="Fact"></node>
+        <node text="Box"></node>
+    </node>
+    <node text="Scientific discovery">    
+        <node text="Phenomenon">        
+            <node text="Berlin"></node>
+            <node text="Confirmation"></node>
+            <node text="Mercury"></node>
+        </node>
+        <node text="Prediction">        
+            <node text="London"></node>
+            <node text="Basic"></node>
+        </node>
+    </node>
+    <node text="Question">    
+        <node text="Aim"></node>
+        <node text="Disregarding"></node>
+        <node text="Philosophy">        
+            <node text="Canvas"></node>
+            <node text="Overcome"></node>
+        </node>
+        <node text="Doctrine">        
+            <node text="Calculations"></node>
+            <node text="Inquiry"></node>
+        </node>
+        <node text="Definite">        
+            <node text="Contribution"></node>
+            <node text="Power"></node>
+        </node>
+    </node>
+</node>
+</map>

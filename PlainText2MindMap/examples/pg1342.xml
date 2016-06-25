@@ -1,0 +1,141 @@
+<map version="1.0.1">
+<node text="Root">
+    <node text="Elizabeth Bennet">    
+        <node text="Elizabeth Jane">        
+            <node text="Letter Elizabeth"></node>
+            <node text="Brother Gardiner"></node>
+        </node>
+        <node text="Bingley Darcy">        
+            <node text="Bingley Jane">            
+                <node text="Darcy brother"></node>
+                <node text="Bingley hours"></node>
+            </node>
+        </node>
+        <node text="Bingley Netherfield">        
+            <node text="Hurst Bingley"></node>
+            <node text="Elizabeth Bingley"></node>
+        </node>
+        <node text="Gardiners Longbourn">        
+            <node text="Longbourn Netherfield"></node>
+            <node text="Lucas Longbourn"></node>
+        </node>
+        <node text="Hertfordshire Gardiners">        
+            <node text="Gardiner niece"></node>
+            <node text="Gardiner Elizabeth"></node>
+        </node>
+        <node text="Longbourn Meryton">        
+            <node text="Longbourn neighbourhood"></node>
+            <node text="Dining Longbourn"></node>
+        </node>
+    </node>
+    <node text="Bennet Lydia">    
+        <node text="Bennet Netherfield">        
+            <node text="Wickham Lydia"></node>
+            <node text="Father letter"></node>
+        </node>
+        <node text="Wickham subject">        
+            <node text="Wickham town"></node>
+            <node text="Wickham woman"></node>
+        </node>
+        <node text="Wickham Elizabeth">        
+            <node text="Wickham relationship"></node>
+            <node text="Darcy Wickham"></node>
+        </node>
+        <node text="Girls father">        
+            <node text="Father London"></node>
+            <node text="Elizabeth father"></node>
+        </node>
+        <node text="Favourite father">        
+            <node text="Father spare"></node>
+            <node text="Conference father"></node>
+        </node>
+    </node>
+    <node text="Friend Jane">    
+        <node text="Jane letter">        
+            <node text="Jane Netherfield"></node>
+            <node text="Jane heart"></node>
+        </node>
+        <node text="Letter friend"></node>
+        <node text="Gardiner letters">        
+            <node text="Letter Charlotte"></node>
+            <node text="Answer letter"></node>
+        </node>
+        <node text="Impatience second letter">        
+            <node text="Letters aloud"></node>
+            <node text="Darcy letter"></node>
+        </node>
+    </node>
+    <node text="Mother Lydia">    
+        <node text="Catherine Lydia">        
+            <node text="Kitty Lydia"></node>
+            <node text="London Lydia"></node>
+        </node>
+        <node text="Elizabeth Lydia">        
+            <node text="Disadvantage Lydia"></node>
+            <node text="Lydia bid"></node>
+        </node>
+        <node text="Father mother"></node>
+        <node text="Reason mother"></node>
+        <node text="Mother Kitty">        
+            <node text="Mother inviting"></node>
+            <node text="Mother door"></node>
+        </node>
+        <node text="Elizabeth mother">        
+            <node text="Stairs mother"></node>
+            <node text="Jane mother"></node>
+        </node>
+    </node>
+    <node text="Collins Lizzy">    
+        <node text="Collins Charlotte">        
+            <node text="Collins breakfast"></node>
+            <node text="Collins Elizabeth"></node>
+        </node>
+        <node text="Collins lodges">        
+            <node text="Collins Jane"></node>
+            <node text="Collinses"></node>
+        </node>
+        <node text="Collins wife"></node>
+        <node text="Charlotte Lucas">        
+            <node text="Charlotte door"></node>
+            <node text="Lucas London"></node>
+        </node>
+    </node>
+    <node text="Charlotte friend">    
+        <node text="Friend Lucas"></node>
+        <node text="Friends Hertfordshire">        
+            <node text="Friend Elizabeth"></node>
+            <node text="Persuade friend"></node>
+        </node>
+        <node text="Interference friends">        
+            <node text="Friend Denny"></node>
+            <node text="Friendship"></node>
+        </node>
+        <node text="Lambton friends">        
+            <node text="Darcy friend"></node>
+            <node text="Bingley friend"></node>
+        </node>
+    </node>
+    <node text="Object friend">    
+        <node text="Brother town">        
+            <node text="Girls Meryton"></node>
+            <node text="Netherfield Meryton"></node>
+        </node>
+    </node>
+    <node text="Woman room">    
+        <node text="Breakfast room">        
+            <node text="Darcy room"></node>
+            <node text="Jane room"></node>
+        </node>
+        <node text="Elizabeth room">        
+            <node text="Doors Catherine"></node>
+            <node text="Elizabeth Catherine"></node>
+        </node>
+        <node text="Catherine Bourgh">        
+            <node text="Nephew Catherine"></node>
+            <node text="Console Catherine"></node>
+        </node>
+        <node text="Word subject"></node>
+        <node text="Heard word"></node>
+    </node>
+</node>
+</map>
